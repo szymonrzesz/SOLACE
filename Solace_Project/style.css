@@ -146,9 +146,9 @@ main{
     background-color: #2466af;;
 }
 .star>img{
-    width: 620px;
-    height: 740px;
-    padding-top: 30px;
+    width: 70%;
+    height: 95%;
+    padding-top: 100px;
 }
 .textsecond{
     width: 70%;
@@ -165,21 +165,21 @@ main{
     justify-content: flex-start;
 }
 .mmembership>img{
-    width: 55%;
-    height: 70%;
+    width: 50%;
+    height: 50%;
 }
 .ymembership>img{
-    width: 55%;
-    height: 70%;
+    width: 50%;
+    height: 50%;
 }
 .mmembership>p{
-    width: 55%;
+    width: 50%;
     height: 10%;
     text-align: center;
     margin: 0;
 }
 .ymembership>p{
-    width: 55%;
+    width: 50%;
     height: 10%;
     margin: 0;
     text-align: center;
@@ -275,11 +275,11 @@ footer{
 }
 .picf{
     width: 100%;
-    height: 100%;
+    height: 80%;
 }
 .footerpic{
     width: 70%;
-    height: 60%;
+    height: 100%;
 }
 .contact{
     font-family: "Comico-Regular";
@@ -302,4 +302,9 @@ footer{
 .author{
     font-family: 'Sentient-Light';
     padding-left: 30px;
+}
+.forth{
+
+    display: flex;
+    align-items: flex-end;
 }
